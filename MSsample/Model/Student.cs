@@ -9,4 +9,4 @@
         public string? Phone { get; set; }
 
     }
-}
+} // Simple Program
